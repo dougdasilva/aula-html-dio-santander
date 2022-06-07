@@ -1,0 +1,40 @@
+body{
+    background: #D3D3D3
+}
+
+body header img{
+    border-radius: 5px;
+    border: 2px solid green;
+}
+
+#title, .subtitle, .links{
+    color: green;
+}
+.bio{
+    background: whitesmoke;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.links{
+    font-size: 20px;
+}
+
+article{
+    background: whitesmoke;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+h4{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.contacts{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-top: 5px;
+    
+}
